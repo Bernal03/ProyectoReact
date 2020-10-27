@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ProyectoReact/static/css/main.bd129949.chunk.css",
+    "main.js": "/ProyectoReact/static/js/main.29cf6e2b.chunk.js",
+    "main.js.map": "/ProyectoReact/static/js/main.29cf6e2b.chunk.js.map",
+    "runtime-main.js": "/ProyectoReact/static/js/runtime-main.44057c49.js",
+    "runtime-main.js.map": "/ProyectoReact/static/js/runtime-main.44057c49.js.map",
+    "static/js/2.f7a97581.chunk.js": "/ProyectoReact/static/js/2.f7a97581.chunk.js",
+    "static/js/2.f7a97581.chunk.js.map": "/ProyectoReact/static/js/2.f7a97581.chunk.js.map",
+    "index.html": "/ProyectoReact/index.html",
+    "precache-manifest.85ca56561c029b8f3d31e8ccb6fee93b.js": "/ProyectoReact/precache-manifest.85ca56561c029b8f3d31e8ccb6fee93b.js",
+    "service-worker.js": "/ProyectoReact/service-worker.js",
+    "static/css/main.bd129949.chunk.css.map": "/ProyectoReact/static/css/main.bd129949.chunk.css.map",
+    "static/js/2.f7a97581.chunk.js.LICENSE.txt": "/ProyectoReact/static/js/2.f7a97581.chunk.js.LICENSE.txt",
+    "static/media/logoTec.jpg": "/ProyectoReact/static/media/logoTec.96aff77c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44057c49.js",
+    "static/js/2.f7a97581.chunk.js",
+    "static/css/main.bd129949.chunk.css",
+    "static/js/main.29cf6e2b.chunk.js"
+  ]
+}

@@ -6,7 +6,7 @@ function Body(props){
 
         
     const mensaje=()=>{
-        return alert("Hola mundo.\n Pd. no pude centrar el header:(")
+        return alert("Hola mundo.\n Pd. no pude centrar el header:(, porque toi chiquito")
       }
 
 

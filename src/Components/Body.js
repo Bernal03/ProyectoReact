@@ -20,7 +20,7 @@ function Body(props){
                 )
             }
 
-        <Button onClick={()=>mensaje()}>Click aqui</Button>
+        <Button onClick={()=>mensaje()}>Click aqui cambiado equisde</Button>
 
         </div>
     )

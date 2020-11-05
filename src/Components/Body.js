@@ -6,6 +6,7 @@ function Body(props){
 
         
     const mensaje=()=>{
+        console.log("Holi")
         return alert("Hola mundo.\n Pd. no pude centrar el header:(")
       }
 
@@ -21,7 +22,6 @@ function Body(props){
             }
 
         <Button onClick={()=>mensaje()}>Click aqui cambiado equisde</Button>
-
         </div>
     )
 }

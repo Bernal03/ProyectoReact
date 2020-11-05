@@ -6,12 +6,9 @@ function Body(props){
 
         
     const mensaje=()=>{
-<<<<<<< HEAD
         console.log("Holi")
-=======
         return alert("Hola mundo.\n Pd. no pude centrar el header:(, porque toi chiquito")
->>>>>>> ae56975c12136801a73a9fbea567da8abe6dca21
-      }
+
 
 
     return(
